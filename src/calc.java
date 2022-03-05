@@ -1,7 +1,7 @@
 
 
 import java.awt.event.*;
-import javax.swing.*
+import javax.swing.*;
 import java.awt.*;
 class calculator extends JFrame implements ActionListener {
     // create a frame
